@@ -1,0 +1,70 @@
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\appsettings.Development.json
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\appsettings.json
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Web API AI Chat.staticwebassets.endpoints.json
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Web API AI Chat.exe
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Web API AI Chat.deps.json
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Web API AI Chat.runtimeconfig.json
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Web API AI Chat.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Web API AI Chat.pdb
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Microsoft.OpenApi.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\Web API AI Chat.csproj.AssemblyReference.cache
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\rpswa.dswa.cache.json
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\Web API AI Chat.GeneratedMSBuildEditorConfig.editorconfig
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\Web API AI Chat.AssemblyInfoInputs.cache
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\Web API AI Chat.AssemblyInfo.cs
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\Web API AI Chat.csproj.CoreCompileInputs.cache
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\Web API AI Chat.MvcApplicationPartsAssemblyInfo.cs
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\Web API AI Chat.MvcApplicationPartsAssemblyInfo.cache
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\rjimswa.dswa.cache.json
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\scopedcss\bundle\Web API AI Chat.styles.css
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\staticwebassets.build.json
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\staticwebassets.build.json.cache
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\staticwebassets.development.json
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\swae.build.ex.cache
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\Web API .BE4F3569.Up2Date
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\Web API AI Chat.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\refint\Web API AI Chat.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\Web API AI Chat.pdb
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\Web API AI Chat.genruntimeconfig.cache
+T:\C# Apps\Web API AI Bot\Web API AI Chat\obj\Debug\net10.0\ref\Web API AI Chat.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Azure.Core.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Azure.Identity.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\System.ClientModel.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\System.Memory.Data.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+T:\C# Apps\Web API AI Bot\Web API AI Chat\bin\Debug\net10.0\OpenAI.dll
